@@ -1,4 +1,6 @@
 # amazonclone
+HostedLink:
+https://yadnika10.github.io/amazonclone/
 ![s1](https://github.com/yadnika10/amazonclone/assets/122971264/2ed37737-da7d-4d7e-9212-5186ee33a57d)
 ![1](https://github.com/yadnika10/amazonclone/assets/122971264/174f8daa-fd66-42e5-8802-8dca07b740fe)
 ![2](https://github.com/yadnika10/amazonclone/assets/122971264/a053e04e-4fac-4a4f-967f-594366d354bc)
