@@ -90,8 +90,10 @@ span{
 .head-menu{
     background-color: #222F3D;
     height: 40px;
+    margin: 0 auto;
     display: flex;
-    gap: 500px;
+    align-items: center;
+    justify-content: space-between;
 }
 .head-menu a{
     color: white;
@@ -99,11 +101,11 @@ span{
 }
 .menu{
     display: flex;
-    justify-content: center;
+    flex-wrap: wrap;
 }
 .menu-links{
     display: flex;
-    gap: 20px;
+    gap: 15px;
     list-style: none;
     padding: 10px 120px;
     font-size: 14px;
@@ -114,6 +116,7 @@ span{
 .corner-menu{
     margin-top: 10px;
     font-size: 14px;
+    margin: 20px 120px;
 }
 /* ------section----------img */
 .banner{
@@ -124,13 +127,10 @@ span{
 }
 main{
     background-color: whitesmoke;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 .services{
     display: flex;
+    align-items: center;
     flex-direction: column;
     padding: 50px 0;
     background-color: #f3f3f3;
